@@ -44,7 +44,7 @@ pip install matplotlib numpy
 
 Склонуйте репозиторій:
 
-git clone https://github.com/your-username/goit-algo-hw-04.git
+git clone (https://github.com/StruchkovaAnastasiia777/goit-algo-hw-04.git)
 cd goit-algo-hw-04
 
 
