@@ -298,7 +298,3 @@ goit-algo-hw-04
 
 
 Основний файл: sorting_algorithms_analysis.py
-
-Автор
-
-[Ваше ПІБ]
